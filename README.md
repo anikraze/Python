@@ -1,8 +1,17 @@
-## Data Science Bootcamp Curriculum
+# Data Science Bootcamp
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+## Class Rules
+
+1. We LOVE questions. If you have questions, please ask! BUT, do not interrupt Harmeet’s lecture with them. Put your questions in the **#02-ask-the-class** channel. Either Gretel or your classmates will answer. If necessary, Gretel will elevate the question for Harmeet to answer after her lecture.
+2. You must have all installations and configurations ready BEFORE the first day of the new unit. You will have plenty of time during the previous week to do so and get help. Instructions will be on the repo under [01-Lesson-Plans](01-Lesson-Plans/README.md) and in the #05-installations channel. Questions about installations must go into the **#05-installations** channel. We will not spend class time addressing installation concerns.
+3. Do not slack Harmeet or Gretel questions outside of office hours or class. Please refer to the guide on asking questions in the **#02-ask-the-class** channel for further guidance.
+4. The due date for homework is firm. You will get a 24-hour grace period, but after that, your grade will be lowered depending on how late it is. If you need an extension you must contact @SSM Christie. It is important that you keep up with the work, and if you cannot, address the problem early with Christie.
+5. You must have your camera on during class. If you have a reason it cannot be on, you must contact @SSM Christie.
 
 - - -
+
+## Curriculum
+
 ### [Unit 1 - Microsoft Excel](01-Lesson-Plans/01-Excel)
 
 * [1.1 - Lesson Plan](01-Lesson-Plans/01-Excel/1/LessonPlan.md)
