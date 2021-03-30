@@ -14,17 +14,23 @@
 
 ### [Unit 1 - Microsoft Excel](01-Lesson-Plans/01-Excel)
 
-* [1.1 - Lesson Plan](01-Lesson-Plans/01-Excel/1/LessonPlan.md)
-* [1.2 - Lesson Plan](01-Lesson-Plans/01-Excel/2/LessonPlan.md)
-* [1.3 - Lesson Plan](01-Lesson-Plans/01-Excel/3/LessonPlan.md)
+* [Resource Requirements](01-Lesson-Plans#01-excel-due-by-3292021)
+
+|Activities|Powerpoint|Video|
+|---|---|---|
+[1.1 - Lesson Plan](01-Lesson-Plans/01-Excel/1/LessonPlan.md)|[1.1 - Powerpoint](https://docs.google.com/presentation/d/1u8MB-2bt7qI1NadoOZifjft3dEBBEQK-4wz0U84ITVs/edit#slide=id.g54ab1329fa_0_30)|[1.1 - Video](https://zoom.us/rec/share/pMt4adWdkiGBpu4xDXQrYWpUmobwIpUpPzwLDUCo5h3pC1ilgb52cNkW87Na9HbT.2HCQL0iXXosFMRFb?startTime=1617056318000)
+[1.2 - Lesson Plan](01-Lesson-Plans/01-Excel/2/LessonPlan.md)| |
+|[1.3 - Lesson Plan](01-Lesson-Plans/01-Excel/3/LessonPlan.md)| |
 
 - - -
 
 ### [Unit 2 - VBA Scripting](01-Lesson-Plans/02-VBA-Scripting)
 
-* [2.1 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/1/LessonPlan.md)
-* [2.2 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/2/LessonPlan.md)
-* [2.3 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/3/LessonPlan.md)
+|Activities|Powerpoint|Video|
+|---|---|---|
+[2.1 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/1/LessonPlan.md)||
+[2.2 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/2/LessonPlan.md)||
+[2.3 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/3/LessonPlan.md)||
 
 - - -
 
