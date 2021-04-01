@@ -19,7 +19,7 @@
 |Activities|Powerpoint|Video|
 |---|---|---|
 [1.1 - Lesson Plan](01-Lesson-Plans/01-Excel/1/LessonPlan.md)|[1.1 - Powerpoint](https://docs.google.com/presentation/d/1u8MB-2bt7qI1NadoOZifjft3dEBBEQK-4wz0U84ITVs/edit#slide=id.g54ab1329fa_0_30)|[1.1 - Video](https://zoom.us/rec/share/pMt4adWdkiGBpu4xDXQrYWpUmobwIpUpPzwLDUCo5h3pC1ilgb52cNkW87Na9HbT.2HCQL0iXXosFMRFb?startTime=1617056318000)
-[1.2 - Lesson Plan](01-Lesson-Plans/01-Excel/2/LessonPlan.md)| |
+[1.2 - Lesson Plan](01-Lesson-Plans/01-Excel/2/LessonPlan.md)|[1.2 - Powerpoint](https://docs.google.com/presentation/d/1IxA5mxfRa4pnRGmbH9YJw_iten9JK1cbN_i6144S5Ds/edit) |[1.2 - Video](https://zoom.us/rec/share/wiqsfchhTujyyWcqoo7gcmq_1aObdDnf15pc3P7xlQapMWHZmURZsu46X8jvNr2_.BkPwS_aI8GTKng_o?startTime=1617227432000)
 |[1.3 - Lesson Plan](01-Lesson-Plans/01-Excel/3/LessonPlan.md)| |
 
 - - -
