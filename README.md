@@ -20,7 +20,7 @@
 |---|---|---|
 [1.1 - Lesson Plan](01-Lesson-Plans/01-Excel/1)|[1.1 - Powerpoint](https://docs.google.com/presentation/d/1u8MB-2bt7qI1NadoOZifjft3dEBBEQK-4wz0U84ITVs/edit#slide=id.g54ab1329fa_0_30)|[1.1 - Video](https://zoom.us/rec/share/pMt4adWdkiGBpu4xDXQrYWpUmobwIpUpPzwLDUCo5h3pC1ilgb52cNkW87Na9HbT.2HCQL0iXXosFMRFb?startTime=1617056318000)
 [1.2 - Lesson Plan](01-Lesson-Plans/01-Excel/2)|[1.2 - Powerpoint](https://docs.google.com/presentation/d/1IxA5mxfRa4pnRGmbH9YJw_iten9JK1cbN_i6144S5Ds/edit) |[1.2 - Video](https://zoom.us/rec/share/wiqsfchhTujyyWcqoo7gcmq_1aObdDnf15pc3P7xlQapMWHZmURZsu46X8jvNr2_.BkPwS_aI8GTKng_o?startTime=1617227432000)
-|[1.3 - Lesson Plan](01-Lesson-Plans/01-Excel/3)| |
+|[1.3 - Lesson Plan](01-Lesson-Plans/01-Excel/3)|[1.3 - Powerpoint](https://docs.google.com/presentation/d/1pJa1TZABU9A5sGXxak7XimvBMlzGin-TZ0EKKQDKVvk/edit#slide=id.g560846d15a_1_0) |[1.3 - Video](https://zoom.us/rec/share/WX2yCxTp1xbgx9MGIhx3KOFUrp8KZoQk88tkHDeq2pKQqMcs0J4KCLekztFj5cBf.-ajIeccFfUTXKQXt?startTime=1617456233000)
 
 - - -
 
@@ -35,12 +35,11 @@
 - - -
 
 ### [Unit 3 - Python](01-Lesson-Plans/03-Python)
-
-* [3.1 - Lesson Plan](01-Lesson-Plans/03-Python/1/LessonPlan.md)
-* [3.2 - Lesson Plan](01-Lesson-Plans/03-Python/2/LessonPlan.md)
-* [3.3 - Lesson Plan](01-Lesson-Plans/03-Python/3/LessonPlan.md)
-
-* [Video Guide](01-Lesson-Plans/03-Python/VideoGuide.md)
+|Activities|Powerpoint|Video|
+|---|---|---|
+[3.1 - Lesson Plan](01-Lesson-Plans/03-Python/1)||
+[3.2 - Lesson Plan](01-Lesson-Plans/03-Python/2)||
+[3.3 - Lesson Plan](01-Lesson-Plans/03-Python/3)||
 
 - - -
 
