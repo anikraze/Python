@@ -16,38 +16,43 @@
 
 * [Resource Requirements](01-Lesson-Plans#01-excel-due-by-3292021)
 
-|Activities|Powerpoint|Video|
-|---|---|---|
-[1.1 - Lesson Plan](01-Lesson-Plans/01-Excel/1)|[1.1 - Powerpoint](https://docs.google.com/presentation/d/1u8MB-2bt7qI1NadoOZifjft3dEBBEQK-4wz0U84ITVs/edit#slide=id.g54ab1329fa_0_30)|[1.1 - Video](https://zoom.us/rec/share/pMt4adWdkiGBpu4xDXQrYWpUmobwIpUpPzwLDUCo5h3pC1ilgb52cNkW87Na9HbT.2HCQL0iXXosFMRFb?startTime=1617056318000)
-[1.2 - Lesson Plan](01-Lesson-Plans/01-Excel/2)|[1.2 - Powerpoint](https://docs.google.com/presentation/d/1IxA5mxfRa4pnRGmbH9YJw_iten9JK1cbN_i6144S5Ds/edit) |[1.2 - Video](https://zoom.us/rec/share/wiqsfchhTujyyWcqoo7gcmq_1aObdDnf15pc3P7xlQapMWHZmURZsu46X8jvNr2_.BkPwS_aI8GTKng_o?startTime=1617227432000)
-|[1.3 - Lesson Plan](01-Lesson-Plans/01-Excel/3)|[1.3 - Powerpoint](https://docs.google.com/presentation/d/1pJa1TZABU9A5sGXxak7XimvBMlzGin-TZ0EKKQDKVvk/edit#slide=id.g560846d15a_1_0) |[1.3 - Video](https://zoom.us/rec/share/WX2yCxTp1xbgx9MGIhx3KOFUrp8KZoQk88tkHDeq2pKQqMcs0J4KCLekztFj5cBf.-ajIeccFfUTXKQXt?startTime=1617456233000)
+|Activities|Powerpoint|Video|Summary|
+|---|---|---|---|
+[1.1 - Lesson Plan](01-Lesson-Plans/01-Excel/1)|[1.1 - Powerpoint](https://docs.google.com/presentation/d/1u8MB-2bt7qI1NadoOZifjft3dEBBEQK-4wz0U84ITVs/edit#slide=id.g54ab1329fa_0_30)|[1.1 - Video](https://zoom.us/rec/share/pMt4adWdkiGBpu4xDXQrYWpUmobwIpUpPzwLDUCo5h3pC1ilgb52cNkW87Na9HbT.2HCQL0iXXosFMRFb?startTime=1617056318000)|[1.1 - Summary](https://drive.google.com/file/d/1PGxjl1guAlks9p0cTVz-yCG7M-PR1IaI/view?usp=sharing)
+[1.2 - Lesson Plan](01-Lesson-Plans/01-Excel/2)|[1.2 - Powerpoint](https://docs.google.com/presentation/d/1IxA5mxfRa4pnRGmbH9YJw_iten9JK1cbN_i6144S5Ds/edit) |[1.2 - Video](https://zoom.us/rec/share/wiqsfchhTujyyWcqoo7gcmq_1aObdDnf15pc3P7xlQapMWHZmURZsu46X8jvNr2_.BkPwS_aI8GTKng_o?startTime=1617227432000)|[1.2 - Summary](https://drive.google.com/file/d/1G-smAHuR0nlFZS-Mqe_QEhbQsvMeiGDf/view?usp=sharing)
+|[1.3 - Lesson Plan](01-Lesson-Plans/01-Excel/3)|[1.3 - Powerpoint](https://docs.google.com/presentation/d/1pJa1TZABU9A5sGXxak7XimvBMlzGin-TZ0EKKQDKVvk/edit#slide=id.g560846d15a_1_0) |[1.3 - Video](https://zoom.us/rec/share/WX2yCxTp1xbgx9MGIhx3KOFUrp8KZoQk88tkHDeq2pKQqMcs0J4KCLekztFj5cBf.-ajIeccFfUTXKQXt?startTime=1617456233000)|[1.3 - Summary](https://drive.google.com/file/d/1kOrU3vnIcF26p6y29FIW82E4WwbMkoh2/view?usp=sharing)
 
 - - -
 
 ### [Unit 2 - VBA Scripting](01-Lesson-Plans/02-VBA-Scripting)
 
-|Activities|Powerpoint|Video|
-|---|---|---|
-[2.1 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/1/LessonPlan.md)|[2.1 - Powerpoint](https://docs.google.com/presentation/d/1xpBf7BjM9zxv8pRCe-fxSnTboTgOoQRrp8WraSxKkgQ/edit#slide=id.g473a132ac1_0_7)|[2.1 - Video](https://zoom.us/rec/share/lnWOlpOdx2QyAkPR9mEmyOUG0-YKYyTll3RfyBLZSf93rI5qmIy-M1jJZbpCANqQ.SAQNJ-mo-DGYFTo0?startTime=1617663415000)
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+[2.1 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/1/LessonPlan.md)|[2.1 - Powerpoint](https://docs.google.com/presentation/d/1xpBf7BjM9zxv8pRCe-fxSnTboTgOoQRrp8WraSxKkgQ/edit#slide=id.g473a132ac1_0_7)|[2.1 - Video](https://zoom.us/rec/share/lnWOlpOdx2QyAkPR9mEmyOUG0-YKYyTll3RfyBLZSf93rI5qmIy-M1jJZbpCANqQ.SAQNJ-mo-DGYFTo0?startTime=1617663415000)|[2.1 - Summary](https://drive.google.com/file/d/1wj3rB3QdBIbCPqYNMqN_cOrGCQT3VmaH/view?usp=sharing)
 [2.2 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/2/LessonPlan.md)|[2.2 - Powerpoint](https://docs.google.com/presentation/d/1L-_yIwbWQTkFix_af4cWoKM6fV3-BkStu-GyVqON138/edit#slide=id.g473a132ac1_0_7)|
 [2.3 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/3/LessonPlan.md)||
 
 - - -
 
 ### [Unit 3 - Python](01-Lesson-Plans/03-Python)
-|Activities|Powerpoint|Video|
-|---|---|---|
-[3.1 - Lesson Plan](01-Lesson-Plans/03-Python/1)||
-[3.2 - Lesson Plan](01-Lesson-Plans/03-Python/2)||
-[3.3 - Lesson Plan](01-Lesson-Plans/03-Python/3)||
+* [Resource Requirements](01-Lesson-Plans#03-python-due-by-4122021)
+
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+[3.1 - Lesson Plan](01-Lesson-Plans/03-Python/1)|||
+[3.2 - Lesson Plan](01-Lesson-Plans/03-Python/2)|||
+[3.3 - Lesson Plan](01-Lesson-Plans/03-Python/3)|||
 
 - - -
 
 ### [Unit 4 - Pandas](01-Lesson-Plans/04-Pandas)
+* [Resource Requirements](#04-pandas-due-by-4192021)
 
-* [4.1 - Lesson Plan](01-Lesson-Plans/04-Pandas/1/LessonPlan.md)
-* [4.2 - Lesson Plan](01-Lesson-Plans/04-Pandas/2/LessonPlan.md)
-* [4.3 - Lesson Plan](01-Lesson-Plans/04-Pandas/3/LessonPlan.md)
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+[4.1 - Lesson Plan](01-Lesson-Plans/04-Pandas/1)|||
+[4.2 - Lesson Plan](01-Lesson-Plans/04-Pandas/2)|||
+[4.3 - Lesson Plan](01-Lesson-Plans/04-Pandas/3)|||
 
 * [Video Guide](01-Lesson-Plans/04-Pandas/VideoGuide.md)
 
