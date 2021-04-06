@@ -28,8 +28,8 @@
 
 |Activities|Powerpoint|Video|
 |---|---|---|
-[2.1 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/1/LessonPlan.md)||
-[2.2 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/2/LessonPlan.md)||
+[2.1 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/1/LessonPlan.md)|[2.1 - Powerpoint](https://docs.google.com/presentation/d/1xpBf7BjM9zxv8pRCe-fxSnTboTgOoQRrp8WraSxKkgQ/edit#slide=id.g473a132ac1_0_7)|[2.1 - Video](https://zoom.us/rec/share/lnWOlpOdx2QyAkPR9mEmyOUG0-YKYyTll3RfyBLZSf93rI5qmIy-M1jJZbpCANqQ.SAQNJ-mo-DGYFTo0?startTime=1617663415000)
+[2.2 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/2/LessonPlan.md)|[2.2 - Powerpoint](https://docs.google.com/presentation/d/1L-_yIwbWQTkFix_af4cWoKM6fV3-BkStu-GyVqON138/edit#slide=id.g473a132ac1_0_7)|
 [2.3 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/3/LessonPlan.md)||
 
 - - -
