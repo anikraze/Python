@@ -30,7 +30,7 @@
 |---|---|---|---|
 [2.1 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/1/LessonPlan.md)|[2.1 - Powerpoint](https://docs.google.com/presentation/d/1xpBf7BjM9zxv8pRCe-fxSnTboTgOoQRrp8WraSxKkgQ/edit#slide=id.g473a132ac1_0_7)|[2.1 - Video](https://zoom.us/rec/share/lnWOlpOdx2QyAkPR9mEmyOUG0-YKYyTll3RfyBLZSf93rI5qmIy-M1jJZbpCANqQ.SAQNJ-mo-DGYFTo0?startTime=1617663415000)|[2.1 - Summary](https://drive.google.com/file/d/1wj3rB3QdBIbCPqYNMqN_cOrGCQT3VmaH/view?usp=sharing)
 [2.2 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/2/LessonPlan.md)|[2.2 - Powerpoint](https://docs.google.com/presentation/d/1L-_yIwbWQTkFix_af4cWoKM6fV3-BkStu-GyVqON138/edit#slide=id.g473a132ac1_0_7)|[2.2 - Video](https://zoom.us/rec/share/tFZRGb862ex7jl3Rwlv_JYTvyds6eyhUWJpQqzT2aak9bLpSQ6iSYv0WoZca-VBN.WEQ6v7YDRAsnctz4?startTime=1617831763000)|[2.2 - Summary](https://drive.google.com/file/d/1uSOssZggXh6AiXbRujmi9wZ52kVwur7T/view?usp=sharing)
-[2.3 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/3/LessonPlan.md)|[2.3 - Powerpoint](https://docs.google.com/presentation/d/1SU0xDLa1Cr790iIP_nZI42ypMjF2d1N7IgK-vu8lzI8/edit?usp=sharing)||
+[2.3 - Lesson Plan](01-Lesson-Plans/02-VBA-Scripting/3/LessonPlan.md)|[2.3 - Powerpoint](https://docs.google.com/presentation/d/1SU0xDLa1Cr790iIP_nZI42ypMjF2d1N7IgK-vu8lzI8/edit?usp=sharing)|[2.3 - Video](https://zoom.us/rec/share/fna5OufID9h8BsVKD18FBtmSMdwW6AyE5zKf3CQUV-iXNXTUWsOP5ThkvCPZACzG.VO0MZvO_h1mBZsE0?startTime=1618060731000)|[2.3 - Summary](https://drive.google.com/file/d/1NyGYqzHTUW-CmvCQDH_DLnNw2ySuqRu3/view?usp=sharing)
 
 - - -
 
@@ -39,7 +39,7 @@
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-[3.1 - Lesson Plan](01-Lesson-Plans/03-Python/1)|||
+[3.1 - Lesson Plan](01-Lesson-Plans/03-Python/1)|[3.1 - Powerpoint](https://docs.google.com/presentation/d/1qKC0MJpAMiMyK-mIPQsb0QVz4dFuLCOi-q-6ymdIDRQ/edit?usp=sharing)||
 [3.2 - Lesson Plan](01-Lesson-Plans/03-Python/2)|||
 [3.3 - Lesson Plan](01-Lesson-Plans/03-Python/3)|||
 
