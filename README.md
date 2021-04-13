@@ -48,7 +48,7 @@
 - - -
 
 ### [Unit 4 - Pandas](01-Lesson-Plans/04-Pandas)
-* [Resource Requirements](#04-pandas-due-by-4192021)
+* [Resource Requirements](01-Lesson-Plans#04-pandas-due-by-4192021)
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
@@ -62,9 +62,11 @@
 
 ### [Unit 5 - Matplotlib](01-Lesson-Plans/05-Matplotlib)
 
-* [5.1 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/1/LessonPlan.md)
-* [5.2 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/2/LessonPlan.md)
-* [5.3 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/3/LessonPlan.md)
+|Activities|Powerpoint|Video|Summary
+|---|---|---|---|
+[5.1 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/1)|||
+[5.2 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/2)|||
+[5.3 - Lesson Plan](01-Lesson-Plans/05-Matplotlib/3)|||
 
 * [Video Guide](01-Lesson-Plans/05-Matplotlib/VideoGuide.md)
 

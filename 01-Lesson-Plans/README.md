@@ -37,6 +37,7 @@ It is vital that you have all resources ready **before** the start of class on t
 `conda install -c anaconda nb_conda_kernels`
   * Type y when prompted.
   * Your installation is successful if you see "done" at the end of log.
+* PythonData environment: [instructions for creating PythonData](https://docs.google.com/document/d/1OkIbBFimJ6o8axcXAmI8BR1fXwCfXEOqrGtCukxof0s/edit#)
 
 - - -
 
