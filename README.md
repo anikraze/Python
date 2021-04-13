@@ -39,9 +39,11 @@
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-[3.1 - Lesson Plan](01-Lesson-Plans/03-Python/1)|[3.1 - Powerpoint](https://docs.google.com/presentation/d/1qKC0MJpAMiMyK-mIPQsb0QVz4dFuLCOi-q-6ymdIDRQ/edit?usp=sharing)||
-[3.2 - Lesson Plan](01-Lesson-Plans/03-Python/2)|||
+[3.1 - Lesson Plan](01-Lesson-Plans/03-Python/1)|[3.1 - Powerpoint](https://docs.google.com/presentation/d/1qKC0MJpAMiMyK-mIPQsb0QVz4dFuLCOi-q-6ymdIDRQ/edit?usp=sharing)|[3.1 - Video](https://zoom.us/rec/share/PVyd9gifnyq6ze0lwMbBT1EdFMO5j0nnP0A7OZb53eS0pChcToBA6cDSMl_KlWQ.xD1376LQOsdaZfiW?startTime=1618263928000)|[3.1 - Summary](https://drive.google.com/file/d/1hDowJsahJcYWnP1hLC1-vjfD72nxgE1J/view?usp=sharing)
+[3.2 - Lesson Plan](01-Lesson-Plans/03-Python/2)|[3.2 - Powerpoint](https://docs.google.com/presentation/d/1Mu-qvYd0BMbh0u02WSFc9LPl_lyeu99Qpa8UjBZKX1g/edit?usp=sharing)||
 [3.3 - Lesson Plan](01-Lesson-Plans/03-Python/3)|||
+
+* [Additional Python Resources](01-Lesson-Plans/03-Python/README.md)
 
 - - -
 
