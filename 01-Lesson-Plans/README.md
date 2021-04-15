@@ -33,7 +33,7 @@ It is vital that you have all resources ready **before** the start of class on t
 
 ## 04-Pandas: Due by 4/19/2021
 
-* Install the following on your **CLI** (command line interface)--Git Bash or Terminal:
+* Activate your PythonData environment and install the following on your **CLI** (command line interface)--Git Bash or Terminal:
 `conda install -c anaconda nb_conda_kernels`
   * Type y when prompted.
   * Your installation is successful if you see "done" at the end of log.
