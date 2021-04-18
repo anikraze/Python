@@ -94,6 +94,7 @@ Both of these challenges encompass a real-world situation where your newfound Py
 
 ## Hints and Considerations
 
+* [Python Homework Hints by Gretel](https://docs.google.com/document/d/1Cd82mEcKJeNN-Q8oKt-omaIgzAc5VpIkWmRaIGcvfAY/edit?usp=sharing)
 * Consider what we've learned so far. To date, we've learned how to import modules like `csv`; to read and write files in various formats; to store contents in variables, lists, and dictionaries; to iterate through basic data structures; and to debug along the way. Using what we've learned, try to break down your tasks into discrete mini-objectives. This will be a _much_ better course of action than spending all your time looking for a solution on Stack Overflow.
 
 * As you will discover, for some of these challenges, the datasets are quite large. This was done purposefully, as it showcases one of the limits of Excel-based analysis. While our first instinct, as data analysts, is often to head straight into Excel, creating scripts in Python can provide us with more robust options for handling "big data".

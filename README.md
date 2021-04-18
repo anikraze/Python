@@ -44,7 +44,7 @@
 [3.3 - Lesson Plan](01-Lesson-Plans/03-Python/3)|[3.3 - Powerpoint](https://docs.google.com/presentation/d/1Oe8Ne3n1k67DRQ4tgxjGZA6rALRkeJAsILIcVXb-o6Q/edit?usp=sharing)|[3.3 - Video](https://zoom.us/rec/share/ujhQTDgrqpvfOlZospAhCczicqj1hS5DwkDkSeAv4yx2iBu9RAHLn8GFMB0czuT3.mZzmHrO6jb7jKDIc?startTime=1618668014000)|[3.3 - Summary](https://drive.google.com/file/d/19l1Ban1NEwl1rLh9VyoYVEr1Y0bc7xPQ/view?usp=sharing)
 
 * [Additional Python Resources](01-Lesson-Plans/03-Python/README.md)
-
+* [Python Homework Hints by Gretel](https://docs.google.com/document/d/1Cd82mEcKJeNN-Q8oKt-omaIgzAc5VpIkWmRaIGcvfAY/edit?usp=sharing)
 
 - - -
 
