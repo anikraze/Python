@@ -53,8 +53,8 @@
 
 |Activities|Powerpoint|Video|Summary
 |---|---|---|---|
-[4.1 - Lesson Plan](01-Lesson-Plans/04-Pandas/1)|[4.1 - Powerpoint](https://docs.google.com/presentation/d/1lvscn_6UUbLiXSSC9atN_LfYPgMRhbA5zY9IVQrbRh8/edit#slide=id.g72f20fcbfa_0_0)||
-[4.2 - Lesson Plan](01-Lesson-Plans/04-Pandas/2)|||
+[4.1 - Lesson Plan](01-Lesson-Plans/04-Pandas/1)|[4.1 - Powerpoint](https://docs.google.com/presentation/d/1lvscn_6UUbLiXSSC9atN_LfYPgMRhbA5zY9IVQrbRh8/edit#slide=id.g72f20fcbfa_0_0)|[4.1 - Video](https://zoom.us/rec/share/W3hTm59DukS92mZCQAopqhxHEqd94tpBudGb2jjpfm8dNpqfdum3i_y6v9qR5YeN.hbEDRUlnNXEy2pOB?startTime=1618868706000)|[4.1 - Summary](https://drive.google.com/file/d/1-9_r0VHok4Ne3e2LIj_tNQhhXi__mk4v/view?usp=sharing)
+[4.2 - Lesson Plan](01-Lesson-Plans/04-Pandas/2)|[4.2 - Powerpoint](https://docs.google.com/presentation/d/1K5vkFCx6ltt-5-D-h4bEDoN7Bh54Jw2R-UNzx833rLw/edit?usp=sharing)||
 [4.3 - Lesson Plan](01-Lesson-Plans/04-Pandas/3)|||
 
 * [Video Guide](01-Lesson-Plans/04-Pandas/VideoGuide.md)
